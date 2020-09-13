@@ -19,17 +19,17 @@ namespace Atlantis.Infrastructure.Data
             {
                 new Cliente()
                 {
-                    Nome = "Fulano",
+                    Nome = "Fulano da Silva",
                     CPF = "11111111111"
                 },
                 new Cliente()
                 {
-                    Nome = "Beltrano",
+                    Nome = "Beltrano da Silva",
                     CPF = "22222222222"
                 },
                 new Cliente()
                 {
-                    Nome = "Ciclano",
+                    Nome = "Ciclano dos Santos",
                     CPF = "33333333333"
                 }
             };
@@ -56,10 +56,14 @@ namespace Atlantis.Infrastructure.Data
                 {
                     Nome = "Contato 3",
                     Telefone = "3333333333",
-                    Email = "ciclanociclano.com",
+                    Email = "ciclano@ciclano.com",
                     Cliente = clientes[2]
                 }
             };
+
+            context.AddRange(contatos);
+
+            context.SaveChanges();
         }
     }
 }

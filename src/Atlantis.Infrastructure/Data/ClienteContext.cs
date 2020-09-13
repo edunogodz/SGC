@@ -24,25 +24,25 @@ namespace Atlantis.Infrastructure.Data
 
             #region Configurações de Cliente            
             modelBuilder.Entity<Cliente>().Property(e => e.CPF)
-                .HasColumnName("varchar(11)")
+                .HasColumnType("varchar(11)")
                 .IsRequired();
 
             modelBuilder.Entity<Cliente>().Property(e => e.Nome)
-                .HasColumnName("varchar(200)")
+                .HasColumnType("varchar(200)")
                 .IsRequired();
             #endregion
 
             #region Configurações de Contato 
             modelBuilder.Entity<Contato>().Property(e => e.Nome)
-                .HasColumnName("varchar(200)")
+                .HasColumnType("varchar(200)")
                 .IsRequired();
 
             modelBuilder.Entity<Contato>().Property(e => e.Email)
-                .HasColumnName("varchar(100)")
+                .HasColumnType("varchar(100)")
                 .IsRequired();
 
             modelBuilder.Entity<Contato>().Property(e => e.Telefone)
-               .HasColumnName("varchar(15)");
+               .HasColumnType("varchar(15)");
             #endregion
         }
     }

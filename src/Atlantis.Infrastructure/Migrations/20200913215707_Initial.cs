@@ -12,8 +12,8 @@ namespace SGC.Infrastructure.Migrations
                 {
                     ClienteId = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    varchar200 = table.Column<string>(name: "varchar(200)", nullable: false),
-                    varchar11 = table.Column<string>(name: "varchar(11)", nullable: false)
+                    Nome = table.Column<string>(type: "varchar(200)", nullable: false),
+                    CPF = table.Column<string>(type: "varchar(11)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -26,9 +26,9 @@ namespace SGC.Infrastructure.Migrations
                 {
                     ContatoId = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    varchar200 = table.Column<string>(name: "varchar(200)", nullable: false),
-                    varchar15 = table.Column<string>(name: "varchar(15)", nullable: true),
-                    varchar100 = table.Column<string>(name: "varchar(100)", nullable: false),
+                    Nome = table.Column<string>(type: "varchar(200)", nullable: false),
+                    Telefone = table.Column<string>(type: "varchar(15)", nullable: true),
+                    Email = table.Column<string>(type: "varchar(100)", nullable: false),
                     ClienteId = table.Column<int>(nullable: false)
                 },
                 constraints: table =>
