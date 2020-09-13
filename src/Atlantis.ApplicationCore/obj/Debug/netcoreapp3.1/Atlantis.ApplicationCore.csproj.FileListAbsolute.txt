@@ -1,0 +1,9 @@
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\bin\Debug\netcoreapp3.1\Atlantis.ApplicationCore.deps.json
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\bin\Debug\netcoreapp3.1\Atlantis.ApplicationCore.dll
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\bin\Debug\netcoreapp3.1\Atlantis.ApplicationCore.pdb
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\obj\Debug\netcoreapp3.1\Atlantis.ApplicationCore.AssemblyInfoInputs.cache
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\obj\Debug\netcoreapp3.1\Atlantis.ApplicationCore.AssemblyInfo.cs
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\obj\Debug\netcoreapp3.1\Atlantis.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\obj\Debug\netcoreapp3.1\Atlantis.ApplicationCore.dll
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\obj\Debug\netcoreapp3.1\Atlantis.ApplicationCore.pdb
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.ApplicationCore\obj\Debug\netcoreapp3.1\Atlantis.ApplicationCore.csprojAssemblyReference.cache

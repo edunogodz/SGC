@@ -1,0 +1,15 @@
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\bin\Debug\netcoreapp3.1\Atlantis.Infrastructure.deps.json
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\bin\Debug\netcoreapp3.1\Atlantis.Infrastructure.dll
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\bin\Debug\netcoreapp3.1\Atlantis.Infrastructure.pdb
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\obj\Debug\netcoreapp3.1\Atlantis.Infrastructure.csprojAssemblyReference.cache
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\obj\Debug\netcoreapp3.1\Atlantis.Infrastructure.AssemblyInfoInputs.cache
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\obj\Debug\netcoreapp3.1\Atlantis.Infrastructure.AssemblyInfo.cs
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\obj\Debug\netcoreapp3.1\Atlantis.Infrastructure.dll
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\obj\Debug\netcoreapp3.1\Atlantis.Infrastructure.pdb
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\bin\Debug\netcoreapp3.1\Atlantis.ApplicationCore.dll
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\bin\Debug\netcoreapp3.1\Atlantis.ApplicationCore.pdb
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\obj\Debug\netcoreapp3.1\Atlantis.Infrastructure.csproj.CopyComplete
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\bin\Debug\netcoreapp3.1\Atlantis.Infrastructure.runtimeconfig.json
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\bin\Debug\netcoreapp3.1\Atlantis.Infrastructure.runtimeconfig.dev.json
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\obj\Debug\netcoreapp3.1\Atlantis.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Sistemas\Youtube_Marcio_Queiroz\Atlantis\src\Atlantis.Infrastructure\obj\Debug\netcoreapp3.1\Atlantis.Infrastructure.genruntimeconfig.cache
